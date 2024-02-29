@@ -139,7 +139,7 @@ body{
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 #hero{
-    background-image: url(/WebDev/Projects/ECommerce/Assets/IMG/hero4.png) ;
+    background-image: url(Assets/IMG/hero4.png) ;
     height: 90vh;
     background-size: cover;
     background-position: top 25% right 0 ;
